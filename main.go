@@ -19,7 +19,7 @@ import (
 )
 
 const (
-	TESTURL   = "https://universal.bigbuckbunny.workers.dev/Consti10/LiveVideo10ms/master/Screenshots/device2.png?xprotocol=https&xhost=raw.githubusercontent.com"
+	TESTURL   = "https://speed.cloudflare.com/__down?bytes=104857600"
 	TIMEOUT   = 10 * time.Second
 	PARALLELS = 20
 	PINGCOUNT = 10
